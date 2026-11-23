@@ -1,7 +1,7 @@
 # Quadruped Walking Robot: Design Project
 
 **Course:** Introduction to Robotics, NTUST, Fall 2026 (final project)
-**Team:** Cinthia Natalia Benítez González, _[teammate 2]_, _[teammate 3]_, _[teammate 4]_
+**Team:** Ian Ruiz Diaz, Gonzalo Silvano, Josias Mendez, Misael Cuevas
 
 > Work in progress. We add the project here step by step (see the progress list below).
 
